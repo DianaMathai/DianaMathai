@@ -1,6 +1,36 @@
-### Hi there 👋 I am
-![Alt Text](./cover_image1.png)
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://github.com/DianaMathai/DianaMathai/raw/main/DianaMathai.gif" alt="Welcome GIF">
+</p>
 
-- 🔭 I’m currently working on mastering the art of encountering errors in more ways than one, because doing it right the first time is just too mainstream! 🤓💻🚀
-- 🌱 I’m currently learning Python and R languages
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Diana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianamathai)
+<!-- Summary/Bio -->
+<p align="center">
+  <b> I am an Urban development professional, with a <a href="https://www.oxfordlearnersdictionaries.com/definition/english/penchant">penchant</a> for data-driven approaches.
+🌟</b><br>
+</p>
+
+---
+
+<p align="left">
+  
+
+  * 👨‍💻 Explore my projects over on <a href="https://github.com/DianaMathai">GitHub</a>!<br>
+
+
+  * 💬 Let's discuss GIS, data science, or urban planning – I'm all ears!<br>
+  
+ 
+  * 🧹 I take pride in meticulous data cleaning and preprocessing (it's the foundation of great analysis! and I enjoy it)<br>
+  
+
+  * 🔒 Committed to ethical data handling practices because even data deserves respect!
+</p>
+
+### Contact Information 
+<a href="mailto:diana.mathai1020@gmail.com">Email</a><br>
+  <!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/dianamathai">LinkedIn</a><br>
+
+
+
+
