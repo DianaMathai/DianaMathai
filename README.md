@@ -20,10 +20,12 @@
   * 💬 Let's discuss GIS, data science, or urban planning – I'm all ears!<br>
   
  
-  * 🧹 I take pride in meticulous data cleaning and preprocessing (it's the foundation of great analysis! and I enjoy it)<br>
+  * 🧹 I take pride in meticulous **data cleaning** and **preprocessing** (it's the foundation of great analysis! and I enjoy it 🌟 )<br>
   
 
-  * 🔒 Committed to ethical data handling practices because even data deserves respect!
+  * 🔒 Committed to **ethical data handling** practices because even data deserves respect!🫡
+
+
 </p>
 
 ### Contact Information 
